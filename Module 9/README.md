@@ -22,7 +22,7 @@ Please take time in express your opinion about the content of this lesson.
 
 [Give Feedback](https://questionpro.com/t/AWl65ZvPjD "Give Feedback")
 
-##Notice
+**Notice**
 
-Your feedback would be assessed and taken into consideration after a set period of time.
-If you are willing to give feedback on a more critical subject, please submit an issue.
+>Your feedback would be assessed and taken into consideration after a set period of time.
+>If you are willing to give feedback on a more critical subject, please submit an issue.
