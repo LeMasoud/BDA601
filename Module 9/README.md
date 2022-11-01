@@ -25,4 +25,5 @@ Please take time in express your opinion about the content of this lesson.
 **Notice**
 
 >Your feedback would be assessed and taken into consideration after a set period of time.
+>
 >If you are willing to give feedback on a more critical subject, please submit an issue.
