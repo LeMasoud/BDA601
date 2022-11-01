@@ -15,3 +15,12 @@ Didn't take that long. You can see the results here are basically what clusters,
 got a little bit confused beyond that point though because our clusters here in the middle or actually a little bit mush together. They're not very really that distinct. So that was a challenge for K means but regardless it did come up with some reasonable guesses at the Clusters, you know, this is probably an example of where you four clusters were more Naturally Fit the data. So, what I want to do, For an activities to try that out. Try a different value of K and C you to no end up with you know, just eyeballing this it looks like four would work. Well, does it really what happens if I increase k 2 large, what happens to my results there? What does it try to split things into and doesn't even make sense? So play around with it. Try different values of K. So the N clusters function here change to find, something else.run it all through it again and see you teamed up with so play around it. Have some fun with it. 
 Conclusion
 That's all there is to k-means clustering. It's just that simple. You can just use scikit-learn’s k-means thing from cluster. And again, the only real gotcha, make sure you scale the data and normalize it. You want to make sure the things that you're using k-means on are comparable to each other, and the scale function will do that for you. So, those are the main things for k-means clustering, pretty simple concept even simpler to Do it using scikit-learn. There you have it. That's all there is to it. That's k-means clustering. So if you have a bunch of data that is unclassified, and you don't really have the right answers ahead of time. It's a good way to try to naturally find interesting groupings of your data and maybe that can give you some insight into what that data is. So good tool to have. I've used it before in the real world and it's really not that hard to use. So keep that in your tool just.
+
+Feedback
+========
+Please take time in express your opinion about the content of this lesson.
+[Give Feedback](https://questionpro.com/t/AWl65ZvPjD "Give Feedback")
+
+##Notice
+Your feedback would be assessed and taken into consideration after a set period of time.
+If you are willing to give feedback on a more critical subject, please submit an issue.
